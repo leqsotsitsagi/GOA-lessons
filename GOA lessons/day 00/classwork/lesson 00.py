@@ -46,5 +46,10 @@ left(120)
 forward(200)
 end_fill() # გაფერადება დასრულებულია
 
+color("black")
+
+left(120)
+forward(200)
+
 # დამკეტი ფრჩხილი
 exitonclick()
