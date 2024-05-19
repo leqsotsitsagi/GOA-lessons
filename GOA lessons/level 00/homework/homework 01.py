@@ -4,7 +4,7 @@ surname = "tsitsagi"
 
 age = "14"
 
-height = "1.73cm"
+height = "1.73m"
 
 knows_programming = True
 
